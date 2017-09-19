@@ -1,6 +1,7 @@
 Protege Nos - Comprehensive Life Improvement for the Blinds
 ===================
 
+PentaHackathon Group33 Projext
 Protege Nos is a comprehensive life improvement system using Android, Arduino and Ruff Internet of Things kit as hardware base and Microsoft Cognitive Service as the significant software API to gather environment data and provide audio feedback to the blind.
 
 
